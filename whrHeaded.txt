@@ -1,0 +1,14 @@
+Python
+Requests
+REST API
+Git
+GitHub
+API keys
+Tokens
+Authorization
+Environment variables
+JSON
+HTTP status codes
+
+--------------
+
